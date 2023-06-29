@@ -20,4 +20,4 @@ En este proyecto me enfoqué en construir el menu para una pizzeria. Contiene la
 # 3. Objetivo
 Aprender a utilizar las etiquetas de HTML5 y CSS.
 # 4. Enlace de demostración
-Aquí puedes visualizar mi proyecto terminado: http://127.0.0.1:5500/pizza/index.html
+Aquí puedes visualizar mi proyecto terminado: https://steady-pavlova-e9a8fb.netlify.app/
